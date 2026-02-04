@@ -1,4 +1,4 @@
-# Mlops_Kuberenetes
+# Mlops_Kubernetes
 
 ### **1. How to Incorporate Kubernetes in a CI/CD Workflow**
 
